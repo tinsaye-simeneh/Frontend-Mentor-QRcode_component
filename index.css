@@ -5,3 +5,21 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+.text-darkblue{
+    color: hsl(218, 44%, 22%);
+}
+.text-grayblue{
+    color: hsl(220, 15%, 55%);
+}
+.bg-lightgray{
+    background-color: hsl(212, 45%, 89%);
+}
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+    font-weight: 400;
+    src: 'https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap';
+}
+.outfit{
+    font-family: 'Outfit', sans-serif;
+}
