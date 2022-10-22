@@ -26,7 +26,7 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-with-dropdown-menu-OXSx5NBxze](https://www.frontendmentor.io/solutions/responsive-landing-page-with-dropdown-menu-OXSx5NBxze)
+- Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-fjbO9CqBHb](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-fjbO9CqBHb)
 - Live Site URL: [https://fm-qrcode-jade.vercel.app/](https://fm-qrcode-jade.vercel.app/)
 
 ## My process
