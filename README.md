@@ -1,6 +1,6 @@
-# Frontend Mentor - Interactive Intro page with dropdown Solution
+# Frontend Mentor - QR code component solution
 
-This is a solution to the Interactive Intro page with dropdown. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to QR code component. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
