@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-with-dropdown-menu-OXSx5NBxze](https://www.frontendmentor.io/solutions/responsive-landing-page-with-dropdown-menu-OXSx5NBxze)
-- Live Site URL: [https://fm-landing.vercel.app/](https://fm-landing.vercel.app/)
+- Live Site URL: [https://fm-qrcode-jade.vercel.app/](https://fm-qrcode-jade.vercel.app/)
 
 ## My process
 
